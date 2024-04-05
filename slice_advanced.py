@@ -1,11 +1,5 @@
 def slice_advanced():
     # Código a implementar utilizando input.
-    # Input
-    text = input()
-
-    # Imprime en pantalla
-
-    print(text[0:13:2])
 
     # Input
     number = input()
