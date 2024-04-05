@@ -12,7 +12,7 @@ def slice_advanced():
 
     # Imprime en pantalla
 
-    print(number[0:11:2])
+    print(number[4:11:2])
 
 # Para verificar este ejercicio ejecutar el comando
 # `pytest tp3_slice_advanced_test.py` o `python tp3_slice_advanced_test.py`
